@@ -1,1 +1,1 @@
-﻿Uzbekistan
+﻿Console.WriteLine("Узбекистан");
